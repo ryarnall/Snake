@@ -3,3 +3,10 @@
 	height: 500px;
 	border: 1px solid gray;
 }
+
+#snake {
+	border-radius: 100%;
+	width: 10px;
+	height: 10px;
+	background: black;
+}
